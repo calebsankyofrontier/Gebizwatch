@@ -9,7 +9,7 @@
   "closing": "2026-08-31T00:00:00+08:00"
  },
  "_meta": {
-  "last_posted_date": "2026-08-20"
+  "last_posted_date": "2026-08-21"
  },
  "NEA000ETQ26000050": {
   "first_seen": "2026-07-14T11:43:15.893180+08:00",
@@ -29,5 +29,14 @@
    "modular"
   ],
   "closing": "2026-08-06T00:00:00+08:00"
+ },
+ "MOESCHETQ26003210": {
+  "first_seen": "2026-08-21T10:09:57.656384+08:00",
+  "title": "Supply of Instructors for STEM-novation Modular CCA Programmes for P4 to P6 students in North Spring Primary School",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003210",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-08-31T00:00:00+08:00"
  }
 }
