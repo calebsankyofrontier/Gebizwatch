@@ -9,7 +9,7 @@
   "closing": "2026-08-31T00:00:00+08:00"
  },
  "_meta": {
-  "last_posted_date": "2026-08-27"
+  "last_posted_date": "2026-08-28"
  },
  "NEA000ETQ26000050": {
   "first_seen": "2026-07-14T11:43:15.893180+08:00",
@@ -38,5 +38,25 @@
    "modular"
   ],
   "closing": "2026-08-31T00:00:00+08:00"
+ },
+ "HDB000ETT26000151": {
+  "first_seen": "2026-08-28T19:42:53.909809+08:00",
+  "title": "TENDER FOR TERM CONTRACT FOR THE PRODUCTION, SUPPLY AND DELIVERY OF PRECAST PREFABRICATED BATHROOM UNIT (PBU) TO VARIOUS HDB BUILDING SITES (BATCH 2)",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=HDB000ETT26000151",
+  "kw": [
+   "prefab",
+   "prefabricated"
+  ],
+  "closing": "2026-10-05T00:00:00+08:00"
+ },
+ "HDB000ETT26000152": {
+  "first_seen": "2026-08-28T19:42:53.909809+08:00",
+  "title": "TENDER FOR TERM CONTRACT FOR THE PRODUCTION, SUPPLY AND DELIVERY OF PRECAST PREFABRICATED BATHROOM UNIT (PBU) TO VARIOUS HDB BUILDING SITES (BATCH 1)",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=HDB000ETT26000152",
+  "kw": [
+   "prefab",
+   "prefabricated"
+  ],
+  "closing": "2026-10-05T00:00:00+08:00"
  }
 }
