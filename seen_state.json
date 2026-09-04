@@ -9,7 +9,7 @@
   "closing": "2026-08-06T00:00:00+08:00"
  },
  "_meta": {
-  "last_posted_date": "2026-09-03"
+  "last_posted_date": "2026-09-04"
  },
  "NEA000ETQ26000050": {
   "first_seen": "2026-07-14T11:43:15.893180+08:00",
@@ -58,5 +58,50 @@
    "modular"
   ],
   "closing": "2026-08-31T00:00:00+08:00"
+ },
+ "MOESCHETQ26003636": {
+  "first_seen": "2026-09-04T13:00:20.893713+08:00",
+  "title": "Supply of Instructors for Modular Arts CCA Programme in North Spring Primary School",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003636",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-14T00:00:00+08:00"
+ },
+ "MOE000ETQ26000213": {
+  "first_seen": "2026-09-04T13:00:20.893713+08:00",
+  "title": "Supply furniture of modular collaborative tables and chairs suitable for flexible classroom learning and group activites, etc",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOE000ETQ26000213",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-14T00:00:00+08:00"
+ },
+ "MOESCHETQ26003666": {
+  "first_seen": "2026-09-04T13:00:20.893713+08:00",
+  "title": "Supply of Modular Robotics and AI Learning Kit Suitable for Primary 4 to Primary 6 students in Sembawang Primary School",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003666",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-10T00:00:00+08:00"
+ },
+ "MOESCHETQ26003512": {
+  "first_seen": "2026-09-04T13:00:20.893713+08:00",
+  "title": "Supply of Furniture for Learning Studio 4 and Learning Studio 5: Modular table suitable for flexible learning and collaborative activities",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003512",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-14T00:00:00+08:00"
+ },
+ "MHASCD03000029327": {
+  "first_seen": "2026-09-04T13:00:20.893713+08:00",
+  "title": "SUPPLY AND DELIVERY OF STORAGE CONTAINERS WITH DISPOSAL OF EXISTING CONTAINERS FOR SCDF",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MHASCD03000029327",
+  "kw": [
+   "container"
+  ],
+  "closing": "2026-09-18T00:00:00+08:00"
  }
 }
