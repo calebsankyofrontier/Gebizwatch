@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-09-08"
+  "last_posted_date": "2026-09-09"
  },
  "RPO000ETQ26000039": {
   "first_seen": "2026-08-17T10:05:59.531355+08:00",
@@ -57,7 +57,7 @@
   "kw": [
    "modular"
   ],
-  "closing": "2026-09-14T00:00:00+08:00"
+  "closing": "2026-09-17T00:00:00+08:00"
  },
  "MOESCHETQ26003666": {
   "first_seen": "2026-09-04T13:00:20.893713+08:00",
@@ -85,5 +85,14 @@
    "container"
   ],
   "closing": "2026-09-18T00:00:00+08:00"
+ },
+ "MOESCHETQ26003646": {
+  "first_seen": "2026-09-09T13:03:54.926040+08:00",
+  "title": "Supply of 3 Instructors for Brazilian Samba Percussion Modular CCA Programme in North Spring Primary School",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003646",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-14T00:00:00+08:00"
  }
 }
