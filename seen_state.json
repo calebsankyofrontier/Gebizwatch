@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-09-18"
+  "last_posted_date": "2026-09-19"
  },
  "RPO000ETQ26000039": {
   "first_seen": "2026-08-17T10:05:59.531355+08:00",
@@ -103,5 +103,14 @@
    "modular"
   ],
   "closing": "2026-09-10T00:00:00+08:00"
+ },
+ "MOESCHETQ26003964": {
+  "first_seen": "2026-09-19T12:55:54.568468+08:00",
+  "title": "Supply of Instructor for Modular Sports CCA Programme in North Spring Primary School",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26003964",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-09-28T00:00:00+08:00"
  }
 }
