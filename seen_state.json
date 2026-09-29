@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-09-28"
+  "last_posted_date": "2026-09-29"
  },
  "RPO000ETQ26000039": {
   "first_seen": "2026-08-17T10:05:59.531355+08:00",
@@ -112,5 +112,23 @@
    "modular"
   ],
   "closing": "2026-09-17T00:00:00+08:00"
+ },
+ "JTC000ETT26000094": {
+  "first_seen": "2026-09-29T14:03:13.828153+08:00",
+  "title": "Design, Supply & Installation of the Electric Overhead Traveling Cranes at JTC Logistics Hub Inland Container Depot",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=JTC000ETT26000094",
+  "kw": [
+   "container"
+  ],
+  "closing": "2026-11-30T00:00:00+08:00"
+ },
+ "JTC26T0023": {
+  "first_seen": "2026-09-29T14:03:13.828153+08:00",
+  "title": "Design, Supply & Installation of the Electric Overhead Traveling Cranes at JTC Logistics Hub Inland Container Depot",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=JTC26T0023",
+  "kw": [
+   "container"
+  ],
+  "closing": "2026-11-30T00:00:00+08:00"
  }
 }
