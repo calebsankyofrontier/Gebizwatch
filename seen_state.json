@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-10-04"
+  "last_posted_date": "2026-10-05"
  },
  "HDB000ETT26000151": {
   "first_seen": "2026-08-28T19:42:53.909809+08:00",
@@ -111,5 +111,14 @@
    "container"
   ],
   "closing": "2026-11-30T00:00:00+08:00"
+ },
+ "MOESCHETQ26004441": {
+  "first_seen": "2026-10-05T14:06:07.946360+08:00",
+  "title": "PROVISION OF SUPPLY OF MODULAR ROBOTICS AND AI LEARNING KIT SUITABLE FOR P3 TO P6 STUDENTS IN YEW TEE PRIMARY SCHOOL",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26004441",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-10-14T00:00:00+08:00"
  }
 }
