@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-10-07"
+  "last_posted_date": "2026-10-08"
  },
  "HDB000ETT26000151": {
   "first_seen": "2026-08-28T19:42:53.909809+08:00",
@@ -119,6 +119,15 @@
   "kw": [
    "modular"
   ],
-  "closing": "2026-10-14T00:00:00+08:00"
+  "closing": "2026-11-10T00:00:00+08:00"
+ },
+ "ITE000ETT26000039": {
+  "first_seen": "2026-10-08T14:32:55.489864+08:00",
+  "title": "SOE26a-00724_ME - Supply, delivery, installation, setup and commissioning of Modular Production System, Pneumatics and Hydraulics Training Systems",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=ITE000ETT26000039",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-11-10T00:00:00+08:00"
  }
 }
