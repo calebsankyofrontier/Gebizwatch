@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-10-08"
+  "last_posted_date": "2026-10-09"
  },
  "HDB000ETT26000151": {
   "first_seen": "2026-08-28T19:42:53.909809+08:00",
@@ -119,7 +119,7 @@
   "kw": [
    "modular"
   ],
-  "closing": "2026-11-10T00:00:00+08:00"
+  "closing": "2026-10-19T00:00:00+08:00"
  },
  "ITE000ETT26000039": {
   "first_seen": "2026-10-08T14:32:55.489864+08:00",
@@ -129,5 +129,32 @@
    "modular"
   ],
   "closing": "2026-11-10T00:00:00+08:00"
+ },
+ "MOESCHETQ26004739": {
+  "first_seen": "2026-10-09T14:34:34.829802+08:00",
+  "title": "Supply of Instructor for Chinese Dance Niche and Modular CCA Programme for Year 2027 with Option to Extend for 2 Years",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26004739",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-11-10T00:00:00+08:00"
+ },
+ "MOESCHETQ26004734": {
+  "first_seen": "2026-10-09T14:34:34.829802+08:00",
+  "title": "Supply of Instructor for Indian Dance Niche and Modular CCA Programme for Year 2027 with Option to Extend for 2 Years",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26004734",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-10-19T00:00:00+08:00"
+ },
+ "MOESCHETQ26004730": {
+  "first_seen": "2026-10-09T14:34:34.829802+08:00",
+  "title": "Supply of Instructor for Malay Dance Niche and Modular CCA Programme for Year 2027 with Option to Extend for 2 Years",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26004730",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-10-19T00:00:00+08:00"
  }
 }
