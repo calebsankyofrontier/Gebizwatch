@@ -1,6 +1,6 @@
 {
  "_meta": {
-  "last_posted_date": "2026-11-15"
+  "last_posted_date": "2026-11-16"
  },
  "HDB000ETT26000151": {
   "first_seen": "2026-08-28T19:42:53.909809+08:00",
@@ -102,5 +102,14 @@
    "modular"
   ],
   "closing": "2026-11-10T00:00:00+08:00"
+ },
+ "MOESCHETQ26006194": {
+  "first_seen": "2026-11-16T15:09:53.616976+08:00",
+  "title": "Supply of Instructors for Lower Primary P1 and P2 E3 Modular (Coding) Programme in Methodist Girls' School (Pri) for 2027.",
+  "url": "https://www.gebiz.gov.sg/ptn/opportunity/directlink.xhtml?docCode=MOESCHETQ26006194",
+  "kw": [
+   "modular"
+  ],
+  "closing": "2026-11-25T00:00:00+08:00"
  }
 }
